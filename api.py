@@ -26,6 +26,12 @@ books = [{
         "bookDescription": "The overwhelming majority of a software system's lifespan is spent in use, not in design or implementation. So, why does conventional wisdom insist that software engineers focus primarily on the design and development of large-scale computing systems?",
         "bookAuthors" : "Betsy Beyer, Chris Jones, Jennifer Petoff"
     },
+    {
+        "bookTitle": "The Phoenix Project" ,
+        "bookImage": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/9427/9781942788294.jpg",
+        "bookDescription": "Awesome book",
+        "bookAuthors" : "some peeps"
+    },
 ]
 
 # Schema For the Book Request JSON
